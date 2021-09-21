@@ -1,0 +1,2 @@
+void mainOne();
+void mainTwo();
